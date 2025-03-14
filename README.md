@@ -23,8 +23,8 @@ Before you begin, ensure you have the following installed:
 1.  **Clone the repository:**
 
     ```bash
-    git clone <your-repository-url>
-    cd <your-repository-name>
+    git clone https://github.com/prasannakulal16/hex-node.git
+    cd hex-node
     ```
 
 2.  **Install dependencies:**
